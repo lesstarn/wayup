@@ -2,14 +2,18 @@ body {
 	font-size: 13px;
 }
 
+img {
+	width: 140px;
+}
 h1 {
 	color: red;
+	font-size: 25px;
 }
 
 .new {
 	color: white;
 	background: blue;
-	width:110px
+	width:100px
 }
 
 p.code span {
